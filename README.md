@@ -1,5 +1,5 @@
 
-# 🛒 BigBasket Sales Analysis Dashboard – Power BI
+# 🛒 The Digital Aisle (Power BI)
 
 ## 📌 Project Overview
 
